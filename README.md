@@ -10,3 +10,7 @@
 ### October 12, 2026
 
 - ```dict_examples.py``` worked through the basics of dictionaries, accessing and changing key : value pairs along with a few examples.
+
+### October 14, 2026
+
+- ```tuple_examples.py``` worked through the basics of tuples, accessing by indexing, immutability, along with applications such as variable swapping and returning multiple values out of a function.
