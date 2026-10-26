@@ -1,0 +1,880 @@
+Product 1: 
+	 Brand: X10 
+	 Company: A&P Creations LLC 
+	 Date: 09/15/2026 
+Product 2: 
+	 Brand: biQ-FEL 
+	 Company: A&P Creations LLC 
+	 Date: 09/15/2026 
+Product 3: 
+	 Brand: So Delicious Dairy Free 
+	 Company: Danone USA 
+	 Date: 09/15/2026 
+Product 4: 
+	 Brand: Centric Compounding 
+	 Company: Centric Compounding LLC 
+	 Date: 09/13/2026 
+Product 5: 
+	 Brand: Whole Foods Market 
+	 Company: Whole Foods Market 
+	 Date: 09/11/2026 
+Product 6: 
+	 Brand: No Brand Name 
+	 Company: Evergreen Fresh Sprouts, LLC. 
+	 Date: 09/10/2026 
+Product 7: 
+	 Brand: FI 
+	 Company: Vet Plus, Inc. 
+	 Date: 09/08/2026 
+Product 8: 
+	 Brand: BMC 
+	 Company: BMC Medical Co., Ltd. 
+	 Date: 09/08/2026 
+Product 9: 
+	 Brand: Created Fresh! 
+	 Company: FreshPoint Central Florida, Inc. 
+	 Date: 09/08/2026 
+Product 10: 
+	 Brand: Made Fresh Salads, Northside 
+	 Company: Made Fresh Salads Inc. 
+	 Date: 09/06/2026 
+Product 11: 
+	 Brand: Business Pill, Branch Manager for Men 
+	 Company: SUPPLX.com 
+	 Date: 09/04/2026 
+Product 12: 
+	 Brand: Foods Alive 
+	 Company: Foods Alive Inc. 
+	 Date: 09/04/2026 
+Product 13: 
+	 Brand: B. Braun 
+	 Company: B. Braun Medical Inc. 
+	 Date: 09/03/2026 
+Product 14: 
+	 Brand: American Regent, Inc. 
+	 Company: American Regent, Inc. 
+	 Date: 09/03/2026 
+Product 15: 
+	 Brand: Great Value 
+	 Company: Frutas y Hortalizas del Sur S.A. 
+	 Date: 09/03/2026 
+Product 16: 
+	 Brand: Kofinas 
+	 Company: LMSI LLC 
+	 Date: 08/31/2026 
+Product 17: 
+	 Brand: Little Temptations  
+	 Company: Crystal Temptations 
+	 Date: 08/31/2026 
+Product 18: 
+	 Brand: Lipofit 
+	 Company: Ana Salazar Modela Tu Cuerpo Inc. 
+	 Date: 08/31/2026 
+Product 19: 
+	 Brand: Everything Sprouts 
+	 Company: Everything Sprouts, LLC 
+	 Date: 08/29/2026 
+Product 20: 
+	 Brand: Martina 
+	 Company: Panorama Produce 
+	 Date: 08/29/2026 
+Product 21: 
+	 Brand: Northwest Naturals 
+	 Company: Northwest Naturals 
+	 Date: 08/28/2026 
+Product 22: 
+	 Brand: Shelter’s Choice, Breeder’s Edge 
+	 Company: Revival Animal Health 
+	 Date: 08/26/2026 
+Product 23: 
+	 Brand: Baxter 
+	 Company: Baxter International Inc. 
+	 Date: 08/26/2026 
+Product 24: 
+	 Brand: Jaime’s Spanish Village 
+	 Company: Jaime’s Foods ATX 
+	 Date: 08/26/2026 
+Product 25: 
+	 Brand: Baxter 
+	 Company: Baxter International Inc. 
+	 Date: 08/25/2026 
+Product 26: 
+	 Brand: Baxter 
+	 Company: Baxter International Inc. 
+	 Date: 08/25/2026 
+Product 27: 
+	 Brand: Vitruvias Therapeutics 
+	 Company: Vitruvias Therapeutics, Inc 
+	 Date: 08/24/2026 
+Product 28: 
+	 Brand: Momchipz 
+	 Company: Exotique Foods Inc 
+	 Date: 08/24/2026 
+Product 29: 
+	 Brand: Donutful 
+	 Company: The Better Bakehouse Snack Company 
+	 Date: 08/24/2026 
+Product 30: 
+	 Brand: Everything Sprouts, Calco 
+	 Company: Everything Sprouts, LLC 
+	 Date: 08/22/2026 
+Product 31: 
+	 Brand: Fromm 
+	 Company: Fromm Family Foods LLC 
+	 Date: 08/21/2026 
+Product 32: 
+	 Brand: Optimal Balance Pharmacy 
+	 Company: Optimal Balance Pharmacy 
+	 Date: 08/20/2026 
+Product 33: 
+	 Brand: Prince 
+	 Company: Prince Bakery Inc. 
+	 Date: 08/19/2026 
+Product 34: 
+	 Brand: Grand Central Bakery 
+	 Company: Grand Central Bakery 
+	 Date: 08/19/2026 
+Product 35: 
+	 Brand: B. Braun 
+	 Company: (B. Braun) 
+	 Date: 08/19/2026 
+Product 36: 
+	 Brand: Outshine 
+	 Company: Dreyer’s Grand Ice Cream, Inc. 
+	 Date: 08/18/2026 
+Product 37: 
+	 Brand: Dairyland Produce LLC 
+	 Company: Dairyland Produce LLC 
+	 Date: 08/17/2026 
+Product 38: 
+	 Brand: Oma’s Pride 
+	 Company: Miller Foods, Inc. 
+	 Date: 08/17/2026 
+Product 39: 
+	 Brand: Prolon 
+	 Company: L-Nutra 
+	 Date: 08/17/2026 
+Product 40: 
+	 Brand: NatureBest, HEB 
+	 Company: NatureBest Precut & Produce LLC 
+	 Date: 08/14/2026 
+Product 41: 
+	 Brand: The Hampton Grocer  
+	 Company: The Hampton Grocer, Inc. 
+	 Date: 08/14/2026 
+Product 42: 
+	 Brand: Salata 
+	 Company: Salata Dressings, LLC. 
+	 Date: 08/14/2026 
+Product 43: 
+	 Brand: Marketside 
+	 Company: Kettle Cuisine LLC 
+	 Date: 08/13/2026 
+Product 44: 
+	 Brand: Whole Foods Market 
+	 Company: Whole Foods Market 
+	 Date: 08/12/2026 
+Product 45: 
+	 Brand: Vitasia Chinese Style 
+	 Company: Lidl US Trading 
+	 Date: 08/12/2026 
+Product 46: 
+	 Brand: Frankie’s Organic 
+	 Company: Frankie’s Organic Foods Inc. 
+	 Date: 08/12/2026 
+Product 47: 
+	 Brand: Fresenius Kabi 
+	 Company: Fresenius Kabi 
+	 Date: 08/11/2026 
+Product 48: 
+	 Brand: Schwarzkopf Professional 
+	 Company: Henkel Corp 
+	 Date: 08/11/2026 
+Product 49: 
+	 Brand: Trader Joe’s, Freshness Guaranteed and more 
+	 Company: Taylor Fresh Foods 
+	 Date: 08/09/2026 
+Product 50: 
+	 Brand: Food To Live 
+	 Company: Lexunder Inc. dba Food To Live 
+	 Date: 08/07/2026 
+Product 51: 
+	 Brand: Medline, Teleflex 
+	 Company: Medline Industries, LP 
+	 Date: 08/06/2026 
+Product 52: 
+	 Brand: Sun Noodle 
+	 Company: Sun Noodle of Honolulu 
+	 Date: 08/06/2026 
+Product 53: 
+	 Brand: Fresenius Kabi 
+	 Company: Fresenius Kabi 
+	 Date: 08/05/2026 
+Product 54: 
+	 Brand: VMC 
+	 Company: Victory Medical Center Pharmacy 
+	 Date: 08/05/2026 
+Product 55: 
+	 Brand: OPTIRAY 
+	 Company: Liebel-Flarsheim Company, LLC 
+	 Date: 08/04/2026 
+Product 56: 
+	 Brand: Blank Slate Creamery 
+	 Company: Blank Slate Creamery 
+	 Date: 08/04/2026 
+Product 57: 
+	 Brand: American Regent, Inc. Animal Health 
+	 Company: American Regent, Inc. Animal Health 
+	 Date: 08/03/2026 
+Product 58: 
+	 Brand: Bettergoods 
+	 Company: Boticelli Foods 
+	 Date: 08/03/2026 
+Product 59: 
+	 Brand: BD 
+	 Company: (Becton, Dickinson and Company) 
+	 Date: 08/03/2026 
+Product 60: 
+	 Brand: Ukrops Homestyle Foods 
+	 Company: Ukrops Homestyle Foods 
+	 Date: 08/01/2026 
+Product 61: 
+	 Brand: Eridanous 
+	 Company: Lidl US 
+	 Date: 07/31/2026 
+Product 62: 
+	 Brand: Rooted in RARE 
+	 Company: 529 Commerce, LLC 
+	 Date: 07/30/2026 
+Product 63: 
+	 Brand: GreenWise 
+	 Company: Publix 
+	 Date: 07/30/2026 
+Product 64: 
+	 Brand: Eridanous 
+	 Company: Lidl US 
+	 Date: 07/28/2026 
+Product 65: 
+	 Brand: American Regent, Inc. 
+	 Company: American Regent, Inc. 
+	 Date: 07/27/2026 
+Product 66: 
+	 Brand: Baxter 
+	 Company: Baxter International Inc. 
+	 Date: 07/24/2026 
+Product 67: 
+	 Brand: Long Grove Pharmaceuticals 
+	 Company: Sunny Pharmtech, Inc. 
+	 Date: 07/24/2026 
+Product 68: 
+	 Brand: Sprig & Sprout; Fresh and Ready 
+	 Company: Fresh & Ready Foods LLC 
+	 Date: 07/22/2026 
+Product 69: 
+	 Brand: Multiple brand names 
+	 Company: Midwest Poultry Services, L.P. 
+	 Date: 07/22/2026 
+Product 70: 
+	 Brand: Pumpkin Tree Peter Rabbit Organics 
+	 Company: PT Organics Limited 
+	 Date: 07/21/2026 
+Product 71: 
+	 Brand: Rising Pharma Holdings Inc. 
+	 Company: Unique Pharmaceutical Laboratories 
+	 Date: 07/20/2026 
+Product 72: 
+	 Brand: Zen Principle 
+	 Company: Relay Peak Research LLC dba Zen Principle Naturals 
+	 Date: 07/19/2026 
+Product 73: 
+	 Brand: CV, JB, Mark and more 
+	 Company: Taylor Fresh Foods 
+	 Date: 07/18/2026 
+Product 74: 
+	 Brand: Ola-Ola 
+	 Company: Fayus, Inc. 
+	 Date: 07/17/2026 
+Product 75: 
+	 Brand: Khong Guan Corporation 
+	 Company: Khong Guan Corporation 
+	 Date: 07/16/2026 
+Product 76: 
+	 Brand: Khong Guan Corporation 
+	 Company: Khong Guan Corporation 
+	 Date: 07/15/2026 
+Product 77: 
+	 Brand: Ola-Ola 
+	 Company: Fayus, Inc. 
+	 Date: 07/07/2026 
+Product 78: 
+	 Brand: GreenWise 
+	 Company: Frutas y Hortalizas del Sur S.A. 
+	 Date: 07/06/2026 
+Product 79: 
+	 Brand: Fusia 
+	 Company: Gellert Global Group 
+	 Date: 07/02/2026 
+Product 80: 
+	 Brand: Pedigree 
+	 Company: Mars Petcare US, Inc. 
+	 Date: 07/02/2026 
+Product 81: 
+	 Brand: Eunha Fisheries Co., Ltd 
+	 Company: Eunha Fisheries Co., Ltd 
+	 Date: 07/01/2026 
+Product 82: 
+	 Brand: Oribe 
+	 Company: KAO USA 
+	 Date: 07/01/2026 
+Product 83: 
+	 Brand: La Colonia, Selectos Latinos, Clover Hill 
+	 Company: La Ceiba Foods Latin Market Inc. 
+	 Date: 06/26/2026 
+Product 84: 
+	 Brand: TNVitamins  
+	 Company: Total Nutrition Inc. 
+	 Date: 06/26/2026 
+Product 85: 
+	 Brand: Bakr 
+	 Company: Bear Stewart LLC 
+	 Date: 06/26/2026 
+Product 86: 
+	 Brand: Breeder’s Edge, Shelter’s Choice 
+	 Company: Revival Animal Health 
+	 Date: 06/25/2026 
+Product 87: 
+	 Brand: High Valley Orchard 
+	 Company: Lehi Valley Trading Company 
+	 Date: 06/25/2026 
+Product 88: 
+	 Brand: Morningstar Farms 
+	 Company: Morningstar Farms 
+	 Date: 06/22/2026 
+Product 89: 
+	 Brand: Clover Hill Dairy 
+	 Company: Clover Hill Dairy, LLC. 
+	 Date: 06/18/2026 
+Product 90: 
+	 Brand: Fry Pie Factory 
+	 Company: Fry Pie Factory 
+	 Date: 06/18/2026 
+Product 91: 
+	 Brand: First Street 
+	 Company: Western Mixers Produce and Nuts 
+	 Date: 06/16/2026 
+Product 92: 
+	 Brand: Nara Organics 
+	 Company: Nara Organics 
+	 Date: 06/13/2026 
+Product 93: 
+	 Brand: Beekeeper’s Naturals 
+	 Company: Beekeeper’s Naturals 
+	 Date: 06/12/2026 
+Product 94: 
+	 Brand: Azuma Foods 
+	 Company: Azuma Foods International, Inc. U.S.A 
+	 Date: 06/12/2026 
+Product 95: 
+	 Brand: TNVitamins and Doctor’s Pride 
+	 Company: Total Nutrition Inc. 
+	 Date: 06/11/2026 
+Product 96: 
+	 Brand: Clover Hill Dairy 
+	 Company: Clover Hill Dairy, LLC. 
+	 Date: 06/09/2026 
+Product 97: 
+	 Brand: BD 
+	 Company: BD 
+	 Date: 06/08/2026 
+Product 98: 
+	 Brand: Steve’s Real Food 
+	 Company: Go Raw, LLC. 
+	 Date: 06/08/2026 
+Product 99: 
+	 Brand: No Brand 
+	 Company: Nelson & Isa Lacteos LLC 
+	 Date: 06/05/2026 
+Product 100: 
+	 Brand: Up & Up 
+	 Company: Target 
+	 Date: 06/05/2026 
+Product 101: 
+	 Brand: Up & Up 
+	 Company: Target 
+	 Date: 06/05/2026 
+Product 102: 
+	 Brand: No Brand 
+	 Company: Nelson & Isa Lacteos LLC 
+	 Date: 06/05/2026 
+Product 103: 
+	 Brand: Gas-X 
+	 Company: Haleon 
+	 Date: 06/04/2026 
+Product 104: 
+	 Brand: No Brand 
+	 Company: Prime Food Processing LLC 
+	 Date: 06/04/2026 
+Product 105: 
+	 Brand: TNVitamins and Doctor’s Pride 
+	 Company: Total Nutrition Inc. 
+	 Date: 06/03/2026 
+Product 106: 
+	 Brand: Motor City Pizza Co. 
+	 Company: Champion Foods LLC 
+	 Date: 06/01/2026 
+Product 107: 
+	 Brand: Dexcom G7 
+	 Company: Dexcom, Inc. 
+	 Date: 05/29/2026 
+Product 108: 
+	 Brand: Better Weather 
+	 Company: Better Weather Activities LLC 
+	 Date: 05/28/2026 
+Product 109: 
+	 Brand: D’Dioses 
+	 Company: De Dios’s Ice Pops II LLC 
+	 Date: 05/27/2026 
+Product 110: 
+	 Brand: SkinnyDipped 
+	 Company: Bazzini, LLC 
+	 Date: 05/27/2026 
+Product 111: 
+	 Brand: Omnipod 
+	 Company: Insulet Corporation, Inc. 
+	 Date: 05/26/2026 
+Product 112: 
+	 Brand: Mogo  
+	 Company: Mogo Moringa LLC 
+	 Date: 05/26/2026 
+Product 113: 
+	 Brand: TNVitamins and Doctor’s Pride 
+	 Company: Total Nutrition Inc. 
+	 Date: 05/26/2026 
+Product 114: 
+	 Brand: Angel Specialty Products, Royal Gold, Boba Time, Fanale, Denda 
+	 Company: SKS Copack 
+	 Date: 05/23/2026 
+Product 115: 
+	 Brand: Boner Bears 
+	 Company: JXK Enterprises, Inc 
+	 Date: 05/23/2026 
+Product 116: 
+	 Brand: Raaw Energy 
+	 Company: Raaw Energy 
+	 Date: 05/22/2026 
+Product 117: 
+	 Brand: Whole Foods Market 
+	 Company: Kettle Cuisine 
+	 Date: 05/21/2026 
+Product 118: 
+	 Brand: Birch Benders 
+	 Company: Hometown Food Company 
+	 Date: 05/21/2026 
+Product 119: 
+	 Brand: Kroger 
+	 Company: Sugar Foods, LLC. 
+	 Date: 05/18/2026 
+Product 120: 
+	 Brand: Malazi 
+	 Company: Nassar Investment Co., LLC. 
+	 Date: 05/18/2026 
+Product 121: 
+	 Brand: Best Supplements Best Prices 
+	 Company: Best Supplements Best Prices 
+	 Date: 05/18/2026 
+Product 122: 
+	 Brand: Straus Family Creamery 
+	 Company: Straus Family Creamery 
+	 Date: 05/15/2026 
+Product 123: 
+	 Brand: Blackstone 
+	 Company: Blackstone Products 
+	 Date: 05/15/2026 
+Product 124: 
+	 Brand: Hellas Meze 
+	 Company: Terra Medi LLC 
+	 Date: 05/14/2026 
+Product 125: 
+	 Brand: IQ Produce LCC 
+	 Company: IQ Produce LCC 
+	 Date: 05/14/2026 
+Product 126: 
+	 Brand: HH Fresh Trading 
+	 Company: HH Fresh Trading 
+	 Date: 05/14/2026 
+Product 127: 
+	 Brand: Aisling 
+	 Company: Sun Pharmaceutical Industries, Inc. 
+	 Date: 05/13/2026 
+Product 128: 
+	 Brand: Fly by Jing 
+	 Company: Fly by Jing 
+	 Date: 05/13/2026 
+Product 129: 
+	 Brand: MG217 
+	 Company: Pharmacal 
+	 Date: 05/12/2026 
+Product 130: 
+	 Brand: Better Weather 
+	 Company: XD Investments LLC 
+	 Date: 05/11/2026 
+Product 131: 
+	 Brand: Nouria 
+	 Company: The Brownie Baker, Inc. 
+	 Date: 05/08/2026 
+Product 132: 
+	 Brand: Giant Eagle 
+	 Company: Legacy Snack Solutions 
+	 Date: 05/08/2026 
+Product 133: 
+	 Brand: Winfield’s 
+	 Company: CBSL Commissary LLC 
+	 Date: 05/08/2026 
+Product 134: 
+	 Brand: Spring & Mulberry 
+	 Company: Spring & Mulberry 
+	 Date: 05/08/2026 
+Product 135: 
+	 Brand: Williams Sonoma, Fireworks Popcorn 
+	 Company: Jonco Industries, Inc. 
+	 Date: 05/08/2026 
+Product 136: 
+	 Brand: Ma Cohen’s 
+	 Company: Shining Sea Fish Co. 
+	 Date: 05/08/2026 
+Product 137: 
+	 Brand: George J. Howe Co. 
+	 Company: George J. Howe Co. 
+	 Date: 05/08/2026 
+Product 138: 
+	 Brand: My Wife’s Slaw 
+	 Company: My Wife’s Slaw 
+	 Date: 05/07/2026 
+Product 139: 
+	 Brand: Albright’s 
+	 Company: Albright’s Raw Pet Food 
+	 Date: 05/07/2026 
+Product 140: 
+	 Brand: Wildlife Seasoning 
+	 Company: JCB Flavors, LLC 
+	 Date: 05/07/2026 
+Product 141: 
+	 Brand: Stoltzfus Family Dairy  
+	 Company: Stoltzfus Family Dairy LLC 
+	 Date: 05/07/2026 
+Product 142: 
+	 Brand: Fisher, Southern Style Nuts, Squirrel Brand, Good & Gather 
+	 Company: John B. Sanfilippo & Son, Inc. 
+	 Date: 05/06/2026 
+Product 143: 
+	 Brand: TRUE METRIX 
+	 Company: Trividia Health, Inc. 
+	 Date: 05/05/2026 
+Product 144: 
+	 Brand: Pork King Good 
+	 Company: Pork King Good 
+	 Date: 05/05/2026 
+Product 145: 
+	 Brand: Market of Choice 
+	 Company: Market of Choice 
+	 Date: 05/05/2026 
+Product 146: 
+	 Brand: And Kimchi 
+	 Company: Ocinet, Inc. 
+	 Date: 05/05/2026 
+Product 147: 
+	 Brand: Zapp’s, Dirty 
+	 Company: Utz Quality Foods LLC 
+	 Date: 05/04/2026 
+Product 148: 
+	 Brand: Second Nature 
+	 Company: Second Nature Brands 
+	 Date: 05/02/2026 
+Product 149: 
+	 Brand: a2 
+	 Company: A2 Milk Company 
+	 Date: 05/02/2026 
+Product 150: 
+	 Brand: Ghirardelli 
+	 Company: Ghirardelli Chocolate Company 
+	 Date: 04/28/2026 
+Product 151: 
+	 Brand: Ghirardelli 
+	 Company: Ghirardelli Chocolate Company 
+	 Date: 04/28/2026 
+Product 152: 
+	 Brand: Uncle Giuseppe’s 
+	 Company: We R Nuts, LLC. 
+	 Date: 04/27/2026 
+Product 153: 
+	 Brand: French Broad Chocolate 
+	 Company: French Broad Chocolate Factory 
+	 Date: 04/24/2026 
+Product 154: 
+	 Brand: Frederik’s by Meijer 
+	 Company: Ferris Coffee & Nut Co. 
+	 Date: 04/23/2026 
+Product 155: 
+	 Brand: Aligned Medical Angio Pack 
+	 Company: Windstone Medical Packaging dba Aligned Medical Solutions 
+	 Date: 04/20/2026 
+Product 156: 
+	 Brand: Breeder’s Edge, Shelter’s Choice 
+	 Company: Revival Animal Health 
+	 Date: 04/17/2026 
+Product 157: 
+	 Brand: Loard’s 
+	 Company: Silver Moon LP dba Loard’s Ice Cream 
+	 Date: 04/16/2026 
+Product 158: 
+	 Brand: Good Brain Tonic 
+	 Company: Liquid Blenz Corp 
+	 Date: 04/14/2026 
+Product 159: 
+	 Brand: Morovan 
+	 Company: Morovan 
+	 Date: 04/13/2026 
+Product 160: 
+	 Brand: Vital Nutrient 
+	 Company: Blueroot Health 
+	 Date: 04/10/2026 
+Product 161: 
+	 Brand: Revitaderm, Tridergel 
+	 Company: Blaine Labs, Inc. 
+	 Date: 04/08/2026 
+Product 162: 
+	 Brand: DTF Sexual Chocolate 
+	 Company: Nalpac 
+	 Date: 04/07/2026 
+Product 163: 
+	 Brand: Wawa 
+	 Company: Wawa 
+	 Date: 04/03/2026 
+Product 164: 
+	 Brand: Karns Foods 
+	 Company: Karns Foods 
+	 Date: 04/03/2026 
+Product 165: 
+	 Brand: RAW FARM 
+	 Company: Raw Farm 
+	 Date: 04/02/2026 
+Product 166: 
+	 Brand: Kian Pee Wan 
+	 Company: Aphreseller 
+	 Date: 04/01/2026 
+Product 167: 
+	 Brand: Christopher Ranch, Garland 
+	 Company: Tops Friendly Markets 
+	 Date: 04/01/2026 
+Product 168: 
+	 Brand: Einstein Bros Bagels 
+	 Company: Schreiber Foods, Inc. 
+	 Date: 03/28/2026 
+Product 169: 
+	 Brand: Vital Nutrient 
+	 Company: Blueroot Health 
+	 Date: 03/27/2026 
+Product 170: 
+	 Brand: Falcon Trading Company 
+	 Company: Falcon Trading Company, Inc. 
+	 Date: 03/26/2026 
+Product 171: 
+	 Brand: Gold Lion, ilum 
+	 Company: Gear Isle 
+	 Date: 03/26/2026 
+Product 172: 
+	 Brand: Amneal 
+	 Company: Amneal Pharmaceuticals LLC 
+	 Date: 03/24/2026 
+Product 173: 
+	 Brand: Webcol 
+	 Company: Cardinal Health 
+	 Date: 03/20/2026 
+Product 174: 
+	 Brand: Mama Grande 
+	 Company: Mama Grande Tortilla Factory 
+	 Date: 03/18/2026 
+Product 175: 
+	 Brand: Boner Bear, Red Bull and Blue Bull 
+	 Company: Pure Vitamins and Natural Supplements, LLC 
+	 Date: 03/14/2026 
+Product 176: 
+	 Brand: Omnipod 
+	 Company: Insulet Corporation 
+	 Date: 03/13/2026 
+Product 177: 
+	 Brand: Favorina 
+	 Company: Lidl US 
+	 Date: 03/12/2026 
+Product 178: 
+	 Brand: Primal Herbs 
+	 Company: Primal Supplements Group LLC 
+	 Date: 03/11/2026 
+Product 179: 
+	 Brand: Miss Vickie’s 
+	 Company: Frito-Lay 
+	 Date: 03/04/2026 
+Product 180: 
+	 Brand: RHINO CHOCO VIP 10X 
+	 Company: USA LESS Co. 
+	 Date: 02/27/2026 
+Product 181: 
+	 Brand: Savannah Bee Company 
+	 Company: Savannah Bee Company 
+	 Date: 02/27/2026 
+Product 182: 
+	 Brand: Quest 
+	 Company: Go Raw LLC. 
+	 Date: 02/26/2026 
+Product 183: 
+	 Brand: Boner Bears 
+	 Company: Lockout Supplements 
+	 Date: 02/25/2026 
+Product 184: 
+	 Brand: Great Value 
+	 Company: Saputo Cheese USA, Inc. 
+	 Date: 02/25/2026 
+Product 185: 
+	 Brand: Elite Treats 
+	 Company: Elite Treats, LLC. 
+	 Date: 02/24/2026 
+Product 186: 
+	 Brand: Made Fresh Salad 
+	 Company: Made Fresh Salads, Inc. 
+	 Date: 02/20/2026 
+Product 187: 
+	 Brand: Advanced Alkaloids 
+	 Company: Shaman Botanicals, LLC 
+	 Date: 02/17/2026 
+Product 188: 
+	 Brand: Quest 
+	 Company: Go Raw LLC 
+	 Date: 02/17/2026 
+Product 189: 
+	 Brand: Tippy Toes 
+	 Company: IF Copack, LLC. d.b.a. Initiative Foods 
+	 Date: 02/13/2026 
+Product 190: 
+	 Brand: Green Lumber 
+	 Company: Green Lumber Holding, LLC. 
+	 Date: 02/13/2026 
+Product 191: 
+	 Brand: Rosabella 
+	 Company: Ambrosia Brands, LLC. 
+	 Date: 02/13/2026 
+Product 192: 
+	 Brand: Wellsley Farms 
+	 Company: Slade Gorton & Co., Inc. 
+	 Date: 02/12/2026 
+Product 193: 
+	 Brand: Junebar 
+	 Company: Juniper Granola, LLC. 
+	 Date: 02/12/2026 
+Product 194: 
+	 Brand: TRUE METRIX 
+	 Company: Trividia Health, Inc. 
+	 Date: 02/06/2026 
+Product 195: 
+	 Brand: No Brand 
+	 Company: Prime Food Processing LLC 
+	 Date: 02/05/2026 
+Product 196: 
+	 Brand: CHIPS AHOY 
+	 Company: Mondelez Global 
+	 Date: 02/04/2026 
+Product 197: 
+	 Brand: Ashfiat Alharamain 
+	 Company: Akkarco LLC 
+	 Date: 02/03/2026 
+Product 198: 
+	 Brand: Neogen 
+	 Company: Neogen Corporation 
+	 Date: 01/29/2026 
+Product 199: 
+	 Brand: Fu Zhou 
+	 Company: Koikoi Trading Inc. 
+	 Date: 01/28/2026 
+Product 200: 
+	 Brand: Why Not Natural 
+	 Company: Why Not Natural 
+	 Date: 01/28/2026 
+Product 201: 
+	 Brand: Fu Zhou 
+	 Company: Koikoi Trading Inc. 
+	 Date: 01/28/2026 
+Product 202: 
+	 Brand: IKM 
+	 Company: IKM 
+	 Date: 01/23/2026 
+Product 203: 
+	 Brand: Navitas Organice 
+	 Company: Navitas Organics 
+	 Date: 01/23/2026 
+Product 204: 
+	 Brand: Live it Up 
+	 Company: Superfoods, Inc. DBA as Live it Up 
+	 Date: 01/20/2026 
+Product 205: 
+	 Brand: Genova 
+	 Company: Tri-Union Seafoods 
+	 Date: 01/19/2026 
+Product 206: 
+	 Brand: Olympus 
+	 Company: Olympus Corporation 
+	 Date: 01/16/2026 
+Product 207: 
+	 Brand: FreeStyle Libre 
+	 Company: Abbott 
+	 Date: 01/15/2026 
+Product 208: 
+	 Brand: Ambriola, Locatelli, Member’s Mark, Pinna, and Boar’s Head 
+	 Company: The Ambriola Company 
+	 Date: 01/15/2026 
+Product 209: 
+	 Brand: Spring & Mulberry 
+	 Company: Spring & Mulberry 
+	 Date: 01/15/2026 
+Product 210: 
+	 Brand: Karison 
+	 Company: Karison Foods & Snacks Inc 
+	 Date: 01/12/2026 
+Product 211: 
+	 Brand: Outside the Breadbox 
+	 Company: VH Foods Inc. DBA Outside The Breadbox 
+	 Date: 01/12/2026 
+Product 212: 
+	 Brand: Spring & Mulberry 
+	 Company: Spring & Mulberry 
+	 Date: 01/12/2026 
+Product 213: 
+	 Brand: True Sea Moss  
+	 Company: Diva Fam Inc. 
+	 Date: 01/12/2026 
+Product 214: 
+	 Brand: Silintan 
+	 Company: Anthony Trinh, 123Herbals LLC 
+	 Date: 01/09/2026 
+Product 215: 
+	 Brand: Modern Warrior 
+	 Company: Modern Warrior 
+	 Date: 01/09/2026 
+Product 216: 
+	 Brand: HerbsForever LLC 
+	 Company: HerbsForever LLC 
+	 Date: 01/09/2026 
+Product 217: 
+	 Brand: Klong Kone 
+	 Company: Gusto Group Inc. 
+	 Date: 01/08/2026 
+Product 218: 
+	 Brand: Carrot Top Kitchens 
+	 Company: Carrot Top Kitchens 
+	 Date: 01/07/2026 
+Product 219: 
+	 Brand: Primavera 
+	 Company: Primavera Nueva Inc. 
+	 Date: 01/07/2026 
+Product 220: 
+	 Brand: Newway Import 
+	 Company: Newway Import Inc. 
+	 Date: 01/05/2026 
