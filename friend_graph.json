@@ -1,0 +1,38 @@
+{
+    "Liam": [
+        "Emma",
+        "Raj"
+    ],
+    "Emma": [
+        "Chen",
+        "Liam",
+        "Sofia"
+    ],
+    "Raj": [
+        "Liam",
+        "Priya"
+    ],
+    "Priya": [
+        "Raj",
+        "Aiko"
+    ],
+    "Aiko": [
+        "Noah",
+        "Priya",
+        "Sofia"
+    ],
+    "Sofia": [
+        "Aiko",
+        "Emma",
+        "Chen"
+    ],
+    "Chen": [
+        "Emma",
+        "Noah",
+        "Sofia"
+    ],
+    "Noah": [
+        "Aiko",
+        "Chen"
+    ]
+}
