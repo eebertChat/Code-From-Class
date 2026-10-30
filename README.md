@@ -15,7 +15,7 @@
 
 - ```tuple_examples.py``` worked through the basics of tuples, accessing by indexing, immutability, along with applications such as variable swapping and returning multiple values out of a function.
 
-### October 28, 2026
+### October 29, 2026
 
 Breadth-First Search demonstration on the board. We learn how to save a graph as a json text file and how to load it back as a dictionary. See the files
 
@@ -24,3 +24,7 @@ Breadth-First Search demonstration on the board. We learn how to save a graph as
 - ```graph.py```
 
 - ```bfs.py```
+
+### October 30, 2026
+
+Finished ```bfs.py```.
